@@ -1,2 +1,2 @@
 # ownprojects
-https://couzzzn.github.io/ownprojects/cv/cv
+https://couzzzn.github.io/ownprojects/maincv/
